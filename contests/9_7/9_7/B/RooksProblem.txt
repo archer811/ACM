@@ -1,0 +1,18 @@
+Rooks Problem
+
+Time Limit : 3000/1000ms (Java/Other)   Memory Limit : 65535/32768K (Java/Other)
+Total Submission(s) : 0   Accepted Submission(s) : 0
+Font: Times New Roman | Verdana | Georgia
+Font Size: ¡û ¡ú
+Problem Description
+A rook is a piece used in the game of chess which is played on a board of square grids. A rook can only move horizontally and vertically from its current position and two rooks attack each other if one is on the path of the other. 
+
+Given two numbers n and k, your job is to determine the number of ways one can put k rooks on an n ¡Á n chessboard so that no two of them are in attacking positions. 
+Input
+Multiple cases. Each case consist of two integers n (1 ¡Ü n ¡Ü 10) and k (0 ¡Ü k ¡Ü n^2).
+Output
+For each case print a line containing the total number of ways one can put the given number of rooks on a chessboard of the given size so that no two of them are in attacking positions. 
+Sample Input
+4 4
+Sample Output
+24

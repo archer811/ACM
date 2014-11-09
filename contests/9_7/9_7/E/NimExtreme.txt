@@ -1,0 +1,32 @@
+Nim Extreme
+
+Time Limit : 3000/1000ms (Java/Other)   Memory Limit : 65535/32768K (Java/Other)
+Total Submission(s) : 0   Accepted Submission(s) : 0
+Font: Times New Roman | Verdana | Georgia
+Font Size: ¡û ¡ú
+Problem Description
+Let n be a positive integer. Consider nim positions where:
+1.There are n non-empty piles.
+2.Each pile has size less than 2n.
+3.No two piles have the same size.
+
+Let W(n) be the number of winning nim positions satisfying the above conditions (a position is winning if the first player has a winning strategy). 
+
+Find W(n) mod 1000000007.
+Input
+Multiple cases. (< 25 cases)
+Each case consist of an integer n (1 <= n <= 1000000).
+Output
+W(n) mod 1000000007.
+Sample Input
+1
+2
+3
+5
+100
+Sample Output
+1
+6
+168
+19764360
+384777056

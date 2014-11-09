@@ -1,0 +1,19 @@
+Yet Another Rooks Problem
+
+Time Limit : 3000/1000ms (Java/Other)   Memory Limit : 65535/32768K (Java/Other)
+Total Submission(s) : 0   Accepted Submission(s) : 0
+Font: Times New Roman | Verdana | Georgia
+Font Size: ¡û ¡ú
+Problem Description
+You have k rooks and an m x n board. The placement of rooks on the board is called correct if no rook is between two other rooks, horizontally or vertically.
+
+Given m, n and k find the number of correct placements of rooks on the board. Since this number may be quite large, find it modulo 10003.
+Input
+Multiple cases. (< 25 cases)
+Each case contains m, n and k (1 <= m,n <= 50, 1 <= k <= m*n).
+Output
+For each case print one number ¡ª the number of correct placements of k rooks on the m x n board modulo 10003.
+Sample Input
+3 2 3
+Sample Output
+18
