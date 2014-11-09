@@ -1,0 +1,324 @@
+@@
+L=:
+woshi:0              1
+R=:1
+
+L=:
+woshi:1              1
+R=:
+
+
+@@
+L=:0
+woshi:1              3
+R=:2
+
+L=:
+woshi:0              0
+R=:
+
+L=:
+woshi:2              2
+R=:
+
+
+@@
+L=:1
+woshi:2              6
+R=:3
+
+L=:0
+woshi:1              1
+R=:
+
+L=:
+woshi:0              0
+R=:
+
+L=:
+woshi:3              3
+R=:
+
+
+@@
+L=:2
+woshi:3              10
+R=:4
+
+L=:1
+woshi:2              3
+R=:
+
+L=:0
+woshi:1              1
+R=:
+
+L=:
+woshi:0              0
+R=:
+
+L=:
+woshi:4              4
+R=:
+
+
+@@
+L=:3
+woshi:4              15
+R=:5
+
+L=:2
+woshi:3              6
+R=:
+
+L=:1
+woshi:2              3
+R=:
+
+L=:0
+woshi:1              1
+R=:
+
+L=:
+woshi:0              0
+R=:
+
+L=:
+woshi:5              5
+R=:
+
+
+@@
+L=:4
+woshi:5              21
+R=:6
+
+L=:3
+woshi:4              10
+R=:
+
+L=:2
+woshi:3              6
+R=:
+
+L=:1
+woshi:2              3
+R=:
+
+L=:0
+woshi:1              1
+R=:
+
+L=:
+woshi:0              0
+R=:
+
+L=:
+woshi:6              6
+R=:
+
+
+@@
+L=:5
+woshi:6              28
+R=:7
+
+L=:4
+woshi:5              15
+R=:
+
+L=:3
+woshi:4              10
+R=:
+
+L=:2
+woshi:3              6
+R=:
+
+L=:1
+woshi:2              3
+R=:
+
+L=:0
+woshi:1              1
+R=:
+
+L=:
+woshi:0              0
+R=:
+
+L=:
+woshi:7              7
+R=:
+
+
+@@
+L=:6
+woshi:7              36
+R=:8
+
+L=:5
+woshi:6              21
+R=:
+
+L=:4
+woshi:5              15
+R=:
+
+L=:3
+woshi:4              10
+R=:
+
+L=:2
+woshi:3              6
+R=:
+
+L=:1
+woshi:2              3
+R=:
+
+L=:0
+woshi:1              1
+R=:
+
+L=:
+woshi:0              0
+R=:
+
+L=:
+woshi:8              8
+R=:
+
+
+@@
+L=:7
+woshi:8              45
+R=:9
+
+L=:6
+woshi:7              28
+R=:
+
+L=:5
+woshi:6              21
+R=:
+
+L=:4
+woshi:5              15
+R=:
+
+L=:3
+woshi:4              10
+R=:
+
+L=:2
+woshi:3              6
+R=:
+
+L=:1
+woshi:2              3
+R=:
+
+L=:0
+woshi:1              1
+R=:
+
+L=:
+woshi:0              0
+R=:
+
+L=:
+woshi:9              9
+R=:
+
+
+@@
+L=:8
+woshi:9              55
+R=:10
+
+L=:7
+woshi:8              36
+R=:
+
+L=:6
+woshi:7              28
+R=:
+
+L=:5
+woshi:6              21
+R=:
+
+L=:4
+woshi:5              15
+R=:
+
+L=:3
+woshi:4              10
+R=:
+
+L=:2
+woshi:3              6
+R=:
+
+L=:1
+woshi:2              3
+R=:
+
+L=:0
+woshi:1              1
+R=:
+
+L=:
+woshi:0              0
+R=:
+
+L=:
+woshi:10              10
+R=:
+
+
+L=:8
+woshi:9              55
+R=:10
+
+L=:7
+woshi:8              36
+R=:
+
+L=:6
+woshi:7              28
+R=:
+
+L=:5
+woshi:6              21
+R=:
+
+L=:4
+woshi:5              15
+R=:
+
+L=:3
+woshi:4              10
+R=:
+
+L=:2
+woshi:3              6
+R=:
+
+L=:1
+woshi:2              3
+R=:
+
+L=:0
+woshi:1              1
+R=:
+
+L=:
+woshi:0              0
+R=:
+
+L=:
+woshi:10              10
+R=:
+
